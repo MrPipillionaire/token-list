@@ -83955,6 +83955,18 @@
         "twitter": "https://twitter.com/metaballix",
         "website": "https://www.metaballix.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6QK8NiXqGu1xWpyMJWDUhwxaVhTq3qY4JeHAnKsZCqgx",
+      "symbol": "MPIP",
+      "name": "Mr Pipillionaire",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/MrPipillionaire/MPip/main/MPip.jpg",
+      "tags": [
+        "social-token",
+        "community-token"	
+      ]
     }
   ],
   "version": {
